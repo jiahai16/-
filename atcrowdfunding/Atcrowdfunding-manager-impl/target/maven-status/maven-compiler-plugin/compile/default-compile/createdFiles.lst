@@ -1,0 +1,11 @@
+com\xjh\atcrowdfunding\manager\controller\AuthcertController.class
+com\xjh\atcrowdfunding\manager\service\impl\CertTypeServiceImpl.class
+com\xjh\atcrowdfunding\manager\service\impl\CertServiceImpl.class
+com\xjh\atcrowdfunding\manager\controller\PermissionController.class
+com\xjh\atcrowdfunding\manager\controller\RoleController.class
+com\xjh\atcrowdfunding\manager\service\impl\PermissionServiceImpl.class
+com\xjh\atcrowdfunding\manager\controller\UserController.class
+com\xjh\atcrowdfunding\manager\service\impl\UserServiceImpl.class
+com\xjh\atcrowdfunding\manager\controller\ProcessController.class
+com\xjh\atcrowdfunding\manager\controller\CertTypeController.class
+com\xjh\atcrowdfunding\manager\service\impl\RoleServiceImpl.class

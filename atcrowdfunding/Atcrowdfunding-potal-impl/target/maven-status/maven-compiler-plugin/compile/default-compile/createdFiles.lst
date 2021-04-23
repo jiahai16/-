@@ -1,0 +1,5 @@
+com\xjh\atcrowdfunding\potal\service\impl\MemberServiceImpl.class
+com\xjh\atcrowdfunding\potal\listener\RefuseListener.class
+com\xjh\atcrowdfunding\potal\controller\MemberController.class
+com\xjh\atcrowdfunding\potal\listener\PassListener.class
+com\xjh\atcrowdfunding\potal\service\impl\TicketServiceImpl.class
